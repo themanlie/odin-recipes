@@ -1,3 +1,3 @@
 # odin-recipes
 
-Practicing a knowledge that I know from [TheOdinProject](https://www.theodinproject.com/).
+Practising a knowledge that I know from [TheOdinProject](https://www.theodinproject.com/).
